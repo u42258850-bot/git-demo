@@ -4,6 +4,6 @@
 
 this is some installation instructions
 
-'''bash
+```bash
 npm install
-'''
+```
